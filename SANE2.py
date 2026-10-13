@@ -7,28 +7,6 @@
 
 ## Is there any gender and ethnicity differences in willingness of going to the university?
 
-## Variables:
-
-# Datafile: wave_four_lsype_young_person_2020
-# 1. Gender (W4SexYP)
-# 2. Ethnicity (w4ethnic2YP)
-# 3. Whether they might want to go to university (W4IfeverYP)
-
-#### References:
-
-## Working with Blind SANE as a researcher
-#https://servicedesk.surf.nl/wiki/spaces/WIKI/pages/96207010/Working+with+Blind+SANE+as+a+researcher
-
-## pip documentation v26.2.1
-#https://pip.pypa.io/en/stable/getting-started/
-
-## Python for Data Analysis: Index
-#https://www.kaggle.com/code/hamelg/python-for-data-analysis-index
-
-## EOSC-ENTRUST on UKDS website
-#https://ukdataservice.ac.uk/about/research-and-development/eosc-entrust-a-european-network-of-trusted-research-environments/
-
-
 ## ===========================================================================================================================
 
 #### Getting things set-up
